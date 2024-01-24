@@ -1,0 +1,10 @@
+Package: SPRING244753wise0073
+Type: Package
+Title: MATH 4753 Lab functions
+Version: 0.1.0
+Author: Nico Wisebaker
+Maintainer: Nico Wisebaker <nico.wisebaker@ou.edu>
+Description: MATH 4753 Lab functions and other selections.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
