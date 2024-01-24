@@ -8,3 +8,4 @@ Description: MATH 4753 Lab functions and other selections.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.3.0
