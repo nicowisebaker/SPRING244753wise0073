@@ -2,7 +2,7 @@
 #'
 #' @param int n the sample size
 #' @param int iter the number of samples
-#'
+#' @export
 #' @return hist(sm/n) a histogram of the sample means and sm/n the vector of sample means
 #' @example myclt(1,2)
 myclt=function(n,iter){
