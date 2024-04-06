@@ -7,8 +7,8 @@
 #' @param cx additional arguments for hist()
 #' @param ...
 #'
-#' @return an invisible list containing the confidence interval, the function used to compute the statistic, and the sample data
 #' @export
+#' @return an invisible list containing the confidence interval, the function used to compute the statistic, and the sample data
 #' @examples
 #'   x <- rnorm(100)
 #'   myboot2(x = x)
