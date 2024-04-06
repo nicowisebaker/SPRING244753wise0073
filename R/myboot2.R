@@ -1,4 +1,3 @@
-myboot2 <- function() {
 #' myboot2
 #'
 #' @param iter number of bootstrap iterations, 10,000 by default
@@ -43,4 +42,3 @@ myboot2 <- function() {
 
     invisible(list(ci=ci,fun=fun,x=x))# Some output to use if necessary
   }
-}
