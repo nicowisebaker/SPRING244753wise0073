@@ -1,5 +1,5 @@
 myboot2 <- function() {
-#' Title
+#' myboot2
 #'
 #' @param iter number of bootstrap iterations, 10,000 by default
 #' @param x sample data
