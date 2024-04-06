@@ -10,7 +10,6 @@ myboot2 <- function() {
 #'
 #' @return an invisible list containing the confidence interval, the function used to compute the statistic, and the sample data
 #' @export
-#'
 #' @examples
 #'   x <- rnorm(100)
 #'   myboot2(x = x)
